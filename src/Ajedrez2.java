@@ -9,6 +9,7 @@ public class Ajedrez2 {
             System.out.println("pruebo de nuevo");
             System.out.println(" Otra prueba");
             System.out.println(" Inicializo i");
+            System.out.println(" No Inicializo J");
     }
 }
 
