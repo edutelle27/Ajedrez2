@@ -1,5 +1,6 @@
 public class Ajedrez2 {
         public static void main(String [] args){
+            int i=0;
             System.out.println(" Proyecto Ajedrez nuevo");
             System.out.println("Otro commit");
             System.out.println("tercer commit");
@@ -7,5 +8,6 @@ public class Ajedrez2 {
             System.out.println("Quinto commit");
             System.out.println("pruebo de nuevo");
             System.out.println(" Otra prueba");
+            System.out.println(" Con variable i");
     }
 }
