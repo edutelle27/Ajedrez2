@@ -5,5 +5,7 @@ public class Ajedrez2 {
             System.out.println("tercer commit");
             System.out.println("cuarto commit");
             System.out.println("Quinto commit");
+            System.out.println("pruebo de nuevo");
+            System.out.println(" Otra prueba");
     }
 }
