@@ -8,9 +8,6 @@ public class Ajedrez2 {
             System.out.println("Quinto commit");
             System.out.println("pruebo de nuevo");
             System.out.println(" Otra prueba");
-            System.out.println(" Con variable i");
-            i=10;
-            System.out.println(" Asigno valor a i");
     }
 }
 
