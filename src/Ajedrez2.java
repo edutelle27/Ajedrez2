@@ -11,6 +11,7 @@ public class Ajedrez2 {
             System.out.println(" Inicializo i");
             System.out.println(" No Inicializo J");
             System.out.println(" Estoy en Master");
+            System.out.println(" Estoy en nueva rama");
     }
 }
 
